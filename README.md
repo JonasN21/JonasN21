@@ -6,4 +6,4 @@ Hit me up
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=JonasN21&theme=dark&hide_border=false)<br/>
 
-
+![](https://komarev.com/ghpvc/?username=JonasN21)
