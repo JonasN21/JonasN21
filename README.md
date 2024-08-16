@@ -2,7 +2,7 @@
 
 <h4 align="center">Visitor's count :eyes:</h4>
 
-<p align="center"><img src="https://profile-counter.glitch.me/{cbgz121}/count.svg" alt="cbgz121 :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{JonasN21}/count.svg" alt="cbgz121 :: Visitor's Count" /></p>
 
 <!--
 **cbgz121/cbgz121** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Some of my Github Stats
-<p align=left> <img src=https://komarev.com/ghpvc/?username=cbgz121 alt=cbgz121 /> </p>
+<p align=left> <img src=https://komarev.com/ghpvc/?username=JonasN21 alt=JonasN21 /> </p>
 
 <!-- <a href="https://github.com/cbgz121">
   <img align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=cbgz121&show_icons=true&include_all_commits=true" />
