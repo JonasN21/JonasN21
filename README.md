@@ -1,7 +1,11 @@
-## Hi there 👋
+### Hi there 👋
+
+<h4 align="center">Visitor's count :eyes:</h4>
+
+<p align="center"><img src="https://profile-counter.glitch.me/{cbgz121}/count.svg" alt="cbgz121 :: Visitor's Count" /></p>
 
 <!--
-**JonasN21/JonasN21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**cbgz121/cbgz121** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +18,30 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Some of my Github Stats
+<p align=left> <img src=https://komarev.com/ghpvc/?username=cbgz121 alt=cbgz121 /> </p>
+
+<!-- <a href="https://github.com/cbgz121">
+  <img align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=cbgz121&show_icons=true&include_all_commits=true" />
+</a> -->
+<!-- <a href="https://github.com/cbgz121">
+  <img align="center" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cbgz121&layout=compact" />
+</a> -->
+
+
+<!--
+**Ryyyc/ryyyc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+
+<a href="https://info.flagcounter.com/mTVY"><img src="https://s11.flagcounter.com/count2/mTVY/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
