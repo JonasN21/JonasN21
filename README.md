@@ -1,4 +1,4 @@
-Hit me up
+Hi
 
 
 # 💻 Tech Stack:
