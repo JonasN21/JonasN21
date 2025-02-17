@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 * 🌍  I'm based in Germany
 * 🖥️  See my portfolio at [jonasniemann.com](http://jonasniemann.com)
-* 🚀  I'm currently developing Websites including CMS System and Table booking Systems for Restaurants
+* 🚀  I'm currently developing Websites including CMS Systems and Table booking Systems for Restaurants
 * 🤝  I'm open to collaborating on Full Stack Web Applications
 
 ### Skills
